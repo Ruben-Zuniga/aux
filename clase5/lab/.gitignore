@@ -1,0 +1,16 @@
+fw/boot.elf
+fw/boot.bin
+fw/boot.hex
+fw/app.elf
+fw/app.bin
+fw/app.hex
+sim.vvp
+tb_soc_boot.vcd
+soc_boot_top.bit
+rpt_*.txt
+vivado_work/
+.Xil/
+usage_statistics_webtalk.*
+fw/app_alt.elf
+fw/app_alt.bin
+fw/app_alt.hex

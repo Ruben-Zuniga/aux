@@ -1,0 +1,22 @@
+# Firmware generado
+fw0/*.elf
+fw0/*.bin
+fw0/*.hex
+fw1/*.elf
+fw1/*.bin
+fw1/*.hex
+
+# Simulación iverilog
+sim.vvp
+sim_irq.vvp
+*.vcd
+
+# Vivado
+vivado_work/
+.Xil/
+*.bit
+*.log
+*.jou
+*.str
+rpt_*.txt
+usage_statistics_webtalk.*

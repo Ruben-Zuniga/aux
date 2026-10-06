@@ -1,10 +1,10 @@
 # Firmware generado
-fw0/*.elf
-fw0/*.bin
-fw0/*.hex
-fw1/*.elf
-fw1/*.bin
-fw1/*.hex
+# fw0/*.elf
+# fw0/*.bin
+# fw0/*.hex
+# fw1/*.elf
+# fw1/*.bin
+# fw1/*.hex
 
 # Simulación iverilog
 sim.vvp
@@ -13,7 +13,7 @@ sim.vvp
 # Vivado
 vivado_work/
 .Xil/
-*.bit
+# *.bit
 *.log
 *.jou
 *.str
